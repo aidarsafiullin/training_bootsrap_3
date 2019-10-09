@@ -12,7 +12,7 @@
 /* font-family: "NautilusPompiliusRegular"; */
 @font-face {
 	font-family: "NautilusPompiliusRegular";
-	src: url("https://webdesign-master.ru/demos/bootstrap-adaptive/fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.woff") format("woff");
+	src: url("../fonts/NautilusPompiliusRegular.woff") format("woff");
 	font-style: normal;
 	font-weight: normal;
 }
